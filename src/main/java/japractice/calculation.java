@@ -12,7 +12,7 @@ public class calculation {
 	System.out.println(num1-num2);
 	System.out.println(Math.pow(num1, num2));
 	
-	
+	System.out.println("hi");
 
 	}
 		
